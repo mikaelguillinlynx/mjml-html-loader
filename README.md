@@ -13,7 +13,7 @@
 
 <h1 align="center">MJML loader for webpack</h1>
 
-<p align="center">Converts MJML files to HTML and exports them as string.</p>
+<p align="center">Converts MJML files to HTML and exports them as HTML</p>
 
 <h2 align="center">Table of Contents</h2>
 

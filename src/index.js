@@ -15,5 +15,5 @@ export default function mjmlLoader(content) {
     throw error;
   }
 
-  return `export default ${JSON.stringify(result.html)};`;
+  return result.html;
 }
