@@ -1,5 +1,5 @@
 {
-  "name": "mjml-loader",
+  "name": "mjml-html-loader",
   "version": "1.0.1",
   "description": "MJML loader for webpack",
   "main": "build/index.js",
